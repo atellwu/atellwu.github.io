@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T03:40:50.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="PjUXHWit3bWHSqfpj4jb" version="13.4.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-09-01T03:43:08.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="c3AoAtCU_uOhy0oIz8Ex" version="13.4.4" type="github" pages="11">
   <diagram id="PEKc1L_drBupShQN1M54" name="Page-2">
     <mxGraphModel dx="946" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1767,10 +1767,10 @@
           <mxGeometry x="542" y="155" width="121" height="177" as="geometry" />
         </mxCell>
         <mxCell id="4A2h82JRBnZst92Kc-vc-22" value="花呗额度决策" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="LeKq0ETU5yNN-Lrr89sj-1">
-          <mxGeometry x="560.5" y="177" width="84" height="30" as="geometry" />
+          <mxGeometry x="563" y="223" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4A2h82JRBnZst92Kc-vc-23" value="商户优惠规则" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="LeKq0ETU5yNN-Lrr89sj-1">
-          <mxGeometry x="560.5" y="222" width="84" height="30" as="geometry" />
+          <mxGeometry x="563" y="177" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4A2h82JRBnZst92Kc-vc-24" value="安全风控策略" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="LeKq0ETU5yNN-Lrr89sj-1">
           <mxGeometry x="563" y="268" width="84" height="30" as="geometry" />
@@ -1790,8 +1790,8 @@
         <mxCell id="4A2h82JRBnZst92Kc-vc-31" value="复杂、结构化的业务配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LeKq0ETU5yNN-Lrr89sj-1">
           <mxGeometry x="353" y="386" width="161" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4A2h82JRBnZst92Kc-vc-32" value="复杂、结构化的业务配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LeKq0ETU5yNN-Lrr89sj-1">
-          <mxGeometry x="520" y="386" width="161" height="20" as="geometry" />
+        <mxCell id="4A2h82JRBnZst92Kc-vc-32" value="营销策略、风控策略等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LeKq0ETU5yNN-Lrr89sj-1">
+          <mxGeometry x="533" y="388" width="161" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
