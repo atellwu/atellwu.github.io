@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T08:48:36.160Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="0C3nj2YK_Q6WUp9gDdDU" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T09:01:40.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="4QZwTG57Vrsafl28JMyQ" version="15.0.6" type="github">
   <diagram id="Csh6XQK3O8JT2D7CaR2J" name="Page-1">
     <mxGraphModel dx="946" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-36" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="41" y="481" width="395.00000000000006" height="87" as="geometry" />
+        </mxCell>
         <mxCell id="8gEPR5BmNLm5b-Q-Nrea-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="510" y="507" width="191" height="72" as="geometry" />
         </mxCell>
         <mxCell id="8gEPR5BmNLm5b-Q-Nrea-18" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="27" y="208.5" width="411" height="211.5" as="geometry" />
+          <mxGeometry x="27" y="208.5" width="488" height="262.5" as="geometry" />
         </mxCell>
         <mxCell id="8gEPR5BmNLm5b-Q-Nrea-1" value="可信平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="29" y="85" width="77" height="20" as="geometry" />
@@ -34,8 +37,8 @@
         <mxCell id="8gEPR5BmNLm5b-Q-Nrea-14" value="中间件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="24" y="218" width="77" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-16" value="SOFARegistry主站落地" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="275" y="514.5" width="147" height="39.5" as="geometry" />
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-16" value="SOFARegistry" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="275" y="514.5" width="122" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="8gEPR5BmNLm5b-Q-Nrea-17" value="Sofagw MOE" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="55" y="517" width="91.5" height="38" as="geometry" />
@@ -63,6 +66,42 @@
         </mxCell>
         <mxCell id="8gEPR5BmNLm5b-Q-Nrea-26" value="关停并转" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="567" y="510" width="77" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-27" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="49" y="597" width="398" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-28" value="mosn" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="209.5" y="597" width="77" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-29" value="RPC&amp;amp;消息故障隔离" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="628.25" width="104" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-30" value="Cache Mesh" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="284" y="627" width="147" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-31" value="Host Sharding" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="64" y="629.5" width="91.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-34" value="ODP 性能优化" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="472" y="597" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-38" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="55" y="729" width="238" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-39" value="serverless" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="731" width="77" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-40" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;Serverless函数&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="173.5" y="760.25" width="104" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-41" value="Dtap提速" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="506" y="743" width="147" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-42" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;SofaArk 场景化&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;strokeColor=#6c8ebf;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="70" y="761.5" width="91.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="8gEPR5BmNLm5b-Q-Nrea-37" value="新技术落地" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="158.8795811518325" y="485.2096774193548" width="159.24083769633512" height="28.064516129032256" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
