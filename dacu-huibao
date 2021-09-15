@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T08:48:45.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="UEjAoTaBNd_kZxsPMIdh" version="15.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-15T09:11:37.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="Q2a9KNbX4C574_adJ1uu" version="15.0.6" type="github" pages="3">
   <diagram id="Csh6XQK3O8JT2D7CaR2J" name="Page-1">
     <mxGraphModel dx="1346" dy="545" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -341,7 +341,7 @@
         <mxCell id="qGT77FbqHKmM5Pd_3XfI-14" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;推广进展：&lt;/span&gt;&lt;span&gt;cctb全面开启、pmtc验证中，&lt;/span&gt;&lt;span&gt;大促核心应用推广15/150&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;自动化流程建设：&lt;/span&gt;&lt;span&gt;已支持「无感升级JDK、自动开启wisp」，「&lt;/span&gt;&lt;span&gt;自动化验证」联调中&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=-17;spacingRight=5;align=left;spacingTop=-6;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-11">
           <mxGeometry x="381" width="190" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="qGT77FbqHKmM5Pd_3XfI-15" value="[已解决] 推广JDK升级时，发现存在线程长时间不响应问题，修复后重新推广，整体推广进展延迟一周。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-11">
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-15" value="[已解决] 推广JDK升级时，发现存在线程长时间不响应问题，修复后重新推广，整体推广进展延迟一周。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;align=left;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-11">
           <mxGeometry x="571" width="189" height="118" as="geometry" />
         </mxCell>
         <mxCell id="qGT77FbqHKmM5Pd_3XfI-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-0">
@@ -350,13 +350,13 @@
         <mxCell id="qGT77FbqHKmM5Pd_3XfI-17" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Dtap 提速优化&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-16">
           <mxGeometry width="190" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="qGT77FbqHKmM5Pd_3XfI-18" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;保险、征信站点容器100%覆盖&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-16">
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-18" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span&gt;提速优化(自适应泄洪&amp;amp;DB优化)，大促节省200+机器&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-16">
           <mxGeometry x="190" width="191" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="qGT77FbqHKmM5Pd_3XfI-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-16">
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-19" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;/div&gt;完成开发和自测&lt;span&gt;，计划参与9.22统一压测，效果待验证&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-16">
           <mxGeometry x="381" width="190" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="qGT77FbqHKmM5Pd_3XfI-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-16">
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-20" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span class=&quot;ne-text&quot;&gt;[已解决] 8.23发布时，遇到&lt;/span&gt;&lt;a href=&quot;https://yuque.antfin.com/middleware/xts/elnvou&quot; target=&quot;_blank&quot; class=&quot;ne-link&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;事务悬挂问题&lt;/span&gt;&lt;/a&gt;&lt;span class=&quot;ne-text&quot;&gt;，随后取消发布，&lt;/span&gt;&lt;span&gt;未参与&lt;/span&gt;&lt;span&gt;99大促&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span class=&quot;ne-text&quot;&gt;[已解决] 99大促中，无感异步化，&lt;/span&gt;&lt;span&gt;dtap&lt;/span&gt;&lt;span class=&quot;ne-text&quot;&gt;限流值配置过小，导致部分退款失败，&lt;/span&gt;&lt;a href=&quot;https://yuque.antfin-inc.com/docs/share/f8789f05-a04c-4cc8-aca1-faeb1faba5a0&quot; target=&quot;_blank&quot; class=&quot;ne-link&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;复盘文档&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=-17;spacingRight=5;align=left;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-16">
           <mxGeometry x="571" width="189" height="115" as="geometry" />
         </mxCell>
       </root>
