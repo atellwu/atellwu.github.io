@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T07:58:34.664Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="k2RJlZIoHzLIkKLkxafv" version="15.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-15T08:04:33.450Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="Trx4bd6D1ZOjBR9QccYT" version="15.0.6" type="github" pages="3">
   <diagram id="Csh6XQK3O8JT2D7CaR2J" name="Page-1">
     <mxGraphModel dx="1346" dy="545" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -287,6 +287,77 @@
         </mxCell>
         <mxCell id="nEumN636JMp_D5Y8Np2Y-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="nEumN636JMp_D5Y8Np2Y-16">
           <mxGeometry x="489" width="163" height="97" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Dp6wLMufMlYtbMMV5bm8" name="zjj-xingneng">
+    <mxGraphModel dx="1346" dy="145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="NFZ_u2FMQWTXAgA4yI9u-0" />
+        <mxCell id="NFZ_u2FMQWTXAgA4yI9u-1" parent="NFZ_u2FMQWTXAgA4yI9u-0" />
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-0" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;shadow=0;sketch=1;fontSize=16;fontColor=#4D4D4D;strokeWidth=1;fillColor=#ffffff;gradientDirection=south;strokeColor=#6C8EBF;" vertex="1" parent="NFZ_u2FMQWTXAgA4yI9u-1">
+          <mxGeometry x="-12" y="506" width="702" height="417" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-0">
+          <mxGeometry width="702" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-2" value="&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;font color=&quot;#003366&quot;&gt;项目&lt;/font&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-1">
+          <mxGeometry width="176" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-3" value="&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;font color=&quot;#003366&quot;&gt;目标&lt;/font&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-1">
+          <mxGeometry x="176" width="175" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-4" value="&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;font color=&quot;#003366&quot;&gt;进展&lt;/font&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;sketch=1;strokeColor=#003366;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-1">
+          <mxGeometry x="351" width="176" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-5" value="&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;font color=&quot;#003366&quot;&gt;风险&lt;/font&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;sketch=1;strokeColor=#003366;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-1">
+          <mxGeometry x="527" width="175" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;flipH=0;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-0">
+          <mxGeometry y="105" width="702" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;RPC 内存复制&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-6">
+          <mxGeometry width="176" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-8" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;line-height: normal ; margin: 0pt 0in ; text-indent: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica light&amp;#34; ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;落地 &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica light&amp;#34; ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;taobaotradecloud&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica light&amp;#34; ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;、 &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica light&amp;#34; ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;paymentcloud &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica light&amp;#34; ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;和 &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica light&amp;#34; ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;cashiercloudtb&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica light&amp;#34; ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;，&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica light&amp;#34; ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;CPU &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica light&amp;#34; ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;下降&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica light&amp;#34; ; letter-spacing: 0pt ; vertical-align: baseline&quot;&gt;10%&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-6">
+          <mxGeometry x="176" width="175" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-9" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;taobaotradecloud：99大促期间，大约15%机器开启，目前日常0台开启(降级)。&lt;/li&gt;&lt;li&gt;paymentcloud和cashiercloudtb ：暂未开启&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=-19;spacingRight=5;flipH=1;align=left;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-6">
+          <mxGeometry x="351" width="176" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-6">
+          <mxGeometry x="527" width="175" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-0">
+          <mxGeometry y="208" width="702" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-12" value="&lt;span style=&quot;font-size: 14px&quot;&gt;JVM Wisp&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-11">
+          <mxGeometry width="176" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-13" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;策略引擎决策能力试点(大促不开启）&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-11">
+          <mxGeometry x="176" width="175" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-11">
+          <mxGeometry x="351" width="176" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-11">
+          <mxGeometry x="527" width="175" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-0">
+          <mxGeometry y="312" width="702" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-17" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Dtap 提速优化&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-16">
+          <mxGeometry width="176" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-18" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;保险、征信站点容器100%覆盖&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-16">
+          <mxGeometry x="176" width="175" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-16">
+          <mxGeometry x="351" width="176" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="qGT77FbqHKmM5Pd_3XfI-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="qGT77FbqHKmM5Pd_3XfI-16">
+          <mxGeometry x="527" width="175" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
