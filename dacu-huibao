@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T08:18:58.146Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="VBh04Kb_rqaZUzgy7c6d" version="15.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-16T08:43:00.952Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="ut8nuQmmzaerJw02ySFA" version="15.0.6" type="github" pages="5">
   <diagram id="Csh6XQK3O8JT2D7CaR2J" name="Page-1">
     <mxGraphModel dx="1346" dy="545" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -433,7 +433,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="X90Th65-7ZUSDzfLsV4_" name="zjj-mosn">
+  <diagram id="X90Th65-7ZUSDzfLsV4_" name="zjj-stop">
     <mxGraphModel dx="1346" dy="145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zOBV6014Ayhd_Ffs4UrX-0" />
@@ -495,7 +495,7 @@
         <mxCell id="f232d-rmHDCWZ5LyuNsa-18" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;sofagw moe支持 bolt 和消息协议，全面替代 sofagw&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;支持tr协议，替代 ZProxy&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span class=&quot;ne-text&quot;&gt;支持TLDC&lt;/span&gt;&lt;/li&gt;&lt;li&gt;支持国密&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=-17;spacingRight=5;align=left;" vertex="1" parent="f232d-rmHDCWZ5LyuNsa-16">
           <mxGeometry x="191" width="190" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="f232d-rmHDCWZ5LyuNsa-19" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;已全面替代sofagw&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;替代ZProxy：预发&amp;amp;灰度共跑&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;支持国密：预发验证中&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=-17;spacingRight=5;spacingTop=-6;" vertex="1" parent="f232d-rmHDCWZ5LyuNsa-16">
+        <mxCell id="f232d-rmHDCWZ5LyuNsa-19" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;已全面替代sofagw&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;替代ZProxy：预发&amp;amp;灰度共跑&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;支持国密：预发验证中，计划大促前开启；蚂蚁卡也将试点。&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=-17;spacingRight=5;spacingTop=-6;" vertex="1" parent="f232d-rmHDCWZ5LyuNsa-16">
           <mxGeometry x="381" width="191" height="116" as="geometry" />
         </mxCell>
         <mxCell id="f232d-rmHDCWZ5LyuNsa-20" value="&lt;br&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;align=left;" vertex="1" parent="f232d-rmHDCWZ5LyuNsa-16">
