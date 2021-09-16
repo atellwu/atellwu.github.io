@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T17:29:44.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="WlG7NX4EL47JaE4GpM7y" version="15.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-16T18:04:48.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="IU0FfMcQLC0Rl0ENIhOP" version="15.0.6" type="github" pages="8">
   <diagram id="Csh6XQK3O8JT2D7CaR2J" name="Page-1">
     <mxGraphModel dx="1346" dy="545" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="7NbrduUSGFuwmX0QIeFV" name="大图(含个进展)">
+  <diagram id="7NbrduUSGFuwmX0QIeFV" name="大图(含个进展、技术难度、几句总结性)">
     <mxGraphModel dx="1346" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vH7xsLXmv7WU8lcNxGgM-0" />
@@ -744,6 +744,62 @@
         </mxCell>
         <mxCell id="59upvOS5vbEBbGM__kwc-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;align=left;" vertex="1" parent="59upvOS5vbEBbGM__kwc-26">
           <mxGeometry x="618" width="190" height="71" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9vCOtRKXtmZv_ESOLHh0" name="zjj-serverless">
+    <mxGraphModel dx="1346" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="R8J0bmNJmUDj5zcDHmYv-0" />
+        <mxCell id="R8J0bmNJmUDj5zcDHmYv-1" parent="R8J0bmNJmUDj5zcDHmYv-0" />
+        <mxCell id="QjT9MhOpWFffgED9OFs0-0" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;shadow=0;sketch=1;fontSize=16;fontColor=#4D4D4D;strokeWidth=1;fillColor=#ffffff;gradientDirection=south;strokeColor=#6C8EBF;spacingLeft=-17;align=left;" vertex="1" parent="R8J0bmNJmUDj5zcDHmYv-1">
+          <mxGeometry x="-16" y="384" width="761" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-0">
+          <mxGeometry width="761" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-2" value="&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;font color=&quot;#003366&quot;&gt;项目&lt;/font&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-1">
+          <mxGeometry width="191" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-3" value="&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;font color=&quot;#003366&quot;&gt;目标&lt;/font&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-1">
+          <mxGeometry x="191" width="190" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-4" value="&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;font color=&quot;#003366&quot;&gt;进展&lt;/font&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;sketch=1;strokeColor=#003366;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-1">
+          <mxGeometry x="381" width="191" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-5" value="&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;font color=&quot;#003366&quot;&gt;风险&lt;/font&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;sketch=1;strokeColor=#003366;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-1">
+          <mxGeometry x="572" width="189" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;flipH=0;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-0">
+          <mxGeometry y="56" width="761" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;SOFAArk 场景化&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-6">
+          <mxGeometry width="191" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-8" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span&gt;SofaArk 场景化支持非对等部署模式和分时伸缩&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=5;spacingRight=5;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-6">
+          <mxGeometry x="191" width="190" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-9" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;非对等部署模式：灰度环境验证中&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;多集群分时伸缩：线下验证中&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=-17;spacingRight=5;flipH=1;align=left;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-6">
+          <mxGeometry x="381" width="191" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-10" value="&lt;div class=&quot;lake-content&quot; style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-6">
+          <mxGeometry x="572" width="189" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-0">
+          <mxGeometry y="171" width="761" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-12" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Serverless Function&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-11">
+          <mxGeometry width="191" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-13" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span&gt;支持MaaS智能分析，运行MaaS函数&lt;/span&gt;&lt;br&gt;&lt;ul class=&quot;ne-list-wrap&quot; style=&quot;margin: 0 ; padding-left: 23px ; list-style: none&quot;&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;align=left;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-11">
+          <mxGeometry x="191" width="190" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=-17;spacingRight=5;align=left;spacingTop=-6;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-11">
+          <mxGeometry x="381" width="191" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="QjT9MhOpWFffgED9OFs0-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;align=left;" vertex="1" parent="QjT9MhOpWFffgED9OFs0-11">
+          <mxGeometry x="572" width="189" height="119" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
