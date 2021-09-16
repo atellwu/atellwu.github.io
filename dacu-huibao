@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T18:43:15.276Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="Aw2TJ5k6-hf8eXa2N3dC" version="15.0.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-09-16T18:44:23.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="d3USUyUEVVgGC2COc-hX" version="15.0.6" type="github" pages="11">
   <diagram id="Csh6XQK3O8JT2D7CaR2J" name="Page-1">
     <mxGraphModel dx="1346" dy="545" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -990,7 +990,7 @@
         <mxCell id="h6WkZ_ti1Or-KTfSpY67-19" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span&gt;99大促的铺开程度：总计 1.8w 台物理机，目前该剩下 709 台未开启（96.09%）&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span&gt;99大促的表现：NUMA 节点无性能问题&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=-17;spacingRight=5;" vertex="1" parent="h6WkZ_ti1Or-KTfSpY67-16">
           <mxGeometry x="385" width="191" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="h6WkZ_ti1Or-KTfSpY67-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;align=left;" vertex="1" parent="h6WkZ_ti1Or-KTfSpY67-16">
+        <mxCell id="h6WkZ_ti1Or-KTfSpY67-20" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;[低] [已解决] NUMA 功能上线之后发现 2 例bug导致线上绑核问题&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;align=left;" vertex="1" parent="h6WkZ_ti1Or-KTfSpY67-16">
           <mxGeometry x="576" width="191" height="123" as="geometry" />
         </mxCell>
       </root>
