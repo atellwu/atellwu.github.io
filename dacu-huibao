@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T06:40:51.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="XN9Z0_u8X9VVOXsY-g1H" version="15.0.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-09-17T06:41:00.762Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="_pxMh9WBKMsfZK12EQYC" version="15.0.6" type="github" pages="11">
   <diagram id="Csh6XQK3O8JT2D7CaR2J" name="Page-1">
     <mxGraphModel dx="1346" dy="545" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -535,7 +535,7 @@
         <mxCell id="uVKqdR4IoO4PGpadBGIp-0" />
         <mxCell id="uVKqdR4IoO4PGpadBGIp-1" parent="uVKqdR4IoO4PGpadBGIp-0" />
         <mxCell id="bU3Q6gLa14aQFXUaQgzO-0" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;shadow=0;sketch=1;fontSize=16;fontColor=#4D4D4D;strokeWidth=1;fillColor=#ffffff;gradientDirection=south;strokeColor=#6C8EBF;spacingLeft=-4;align=left;" vertex="1" parent="uVKqdR4IoO4PGpadBGIp-1">
-          <mxGeometry x="-12" y="506" width="822" height="443.25" as="geometry" />
+          <mxGeometry x="-18" y="471" width="822" height="451" as="geometry" />
         </mxCell>
         <mxCell id="bU3Q6gLa14aQFXUaQgzO-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bU3Q6gLa14aQFXUaQgzO-0">
           <mxGeometry width="822" height="49" as="geometry" />
@@ -583,19 +583,19 @@
           <mxGeometry x="607" width="215" height="123" as="geometry" />
         </mxCell>
         <mxCell id="bU3Q6gLa14aQFXUaQgzO-16" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bU3Q6gLa14aQFXUaQgzO-0">
-          <mxGeometry y="323" width="822" height="120" as="geometry" />
+          <mxGeometry y="323" width="822" height="128" as="geometry" />
         </mxCell>
         <mxCell id="bU3Q6gLa14aQFXUaQgzO-17" value="&lt;span style=&quot;font-size: 14px&quot;&gt;SOFAGW MOE&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;" vertex="1" parent="bU3Q6gLa14aQFXUaQgzO-16">
-          <mxGeometry width="207" height="120" as="geometry" />
+          <mxGeometry width="207" height="128" as="geometry" />
         </mxCell>
         <mxCell id="bU3Q6gLa14aQFXUaQgzO-18" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;ul&gt;&lt;li&gt;支持 triple/bolt/消息协议，全面取代 sofagw&lt;/li&gt;&lt;li&gt;支持 TR 协议，取代 zproxy&lt;/li&gt;&lt;li&gt;支持 TLDC 架构，提供跨租户标准通信能力&lt;/li&gt;&lt;li&gt;支持 TLS 和国密算法&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=-17;spacingRight=5;align=left;" vertex="1" parent="bU3Q6gLa14aQFXUaQgzO-16">
-          <mxGeometry x="207" width="207" height="120" as="geometry" />
+          <mxGeometry x="207" width="207" height="128" as="geometry" />
         </mxCell>
         <mxCell id="bU3Q6gLa14aQFXUaQgzO-19" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;取代sofagw：已支持triple/bolt，消息协议开发中&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;取代ZProxy：预发&amp;amp;灰度共跑验证中&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;支持TLDC：业务接入中&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;支持TLS和国密：预发验证中，计划大促前开启；蚂蚁卡也将试点。&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=-17;spacingRight=5;spacingTop=-6;" vertex="1" parent="bU3Q6gLa14aQFXUaQgzO-16">
-          <mxGeometry x="414" width="193" height="120" as="geometry" />
+          <mxGeometry x="414" width="193" height="128" as="geometry" />
         </mxCell>
         <mxCell id="bU3Q6gLa14aQFXUaQgzO-20" value="&lt;br&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;spacingLeft=5;spacingRight=5;align=left;" vertex="1" parent="bU3Q6gLa14aQFXUaQgzO-16">
-          <mxGeometry x="607" width="215" height="120" as="geometry" />
+          <mxGeometry x="607" width="215" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
