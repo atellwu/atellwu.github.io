@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T12:38:20.336Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="Fz15ve-FRNpbzdkVPYFh" version="15.0.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-09-20T13:02:59.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="ZHCG0krAZeblDvjdUtjd" version="15.0.6" type="github" pages="12">
   <diagram id="Csh6XQK3O8JT2D7CaR2J" name="Page-1">
     <mxGraphModel dx="1346" dy="579" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -475,7 +475,7 @@
           <mxGeometry x="159" y="726" width="376" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C-3wPgLWsNDRGzQ5MtjU-59" value="&lt;span style=&quot;text-align: left&quot;&gt;SOFAArk非对等模式已上线，分时伸缩验证中; 函数运行时切多容器中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillColor=#d5e8d4;fillStyle=solid;strokeColor=none;" vertex="1" parent="FycDhRPKH3RZSZih0S0l-1">
-          <mxGeometry x="159" y="749" width="379.75" height="20" as="geometry" />
+          <mxGeometry x="159" y="749" width="389" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C-3wPgLWsNDRGzQ5MtjU-62" value="&lt;span style=&quot;text-align: left&quot;&gt;推广100个B/C的应用, 目前24个&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillColor=#d5e8d4;fillStyle=solid;strokeColor=none;" vertex="1" parent="FycDhRPKH3RZSZih0S0l-1">
           <mxGeometry x="158" y="771" width="374" height="20" as="geometry" />
@@ -483,25 +483,19 @@
         <mxCell id="C-3wPgLWsNDRGzQ5MtjU-64" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontSize=16;fontColor=#4D4D4D;endArrow=none;endFill=0;" edge="1" parent="FycDhRPKH3RZSZih0S0l-1" source="C-3wPgLWsNDRGzQ5MtjU-65" target="C-3wPgLWsNDRGzQ5MtjU-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C-3wPgLWsNDRGzQ5MtjU-65" value="&lt;span style=&quot;text-align: left&quot;&gt;双向加密覆盖180+应用;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;跨集群加密试点;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;Mosn国密通信性能不达标&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillColor=#d5e8d4;fillStyle=solid;strokeColor=none;" vertex="1" parent="FycDhRPKH3RZSZih0S0l-1">
+        <mxCell id="C-3wPgLWsNDRGzQ5MtjU-65" value="&lt;span style=&quot;text-align: left&quot;&gt;双向加密覆盖180+应用;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;跨集群加密试点;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;Mosn国密通信性能不达标&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillColor=#fff2cc;fillStyle=solid;strokeColor=none;" vertex="1" parent="FycDhRPKH3RZSZih0S0l-1">
           <mxGeometry x="165" y="823.5" width="374" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C-3wPgLWsNDRGzQ5MtjU-66" value="&lt;span style=&quot;text-align: left&quot;&gt;09.09 ARM 变更异常&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://yuque.antfin-inc.com/docs/share/6c29d3d0-9576-4aaa-8f49-47b2f3617d37&quot; style=&quot;text-align: left&quot;&gt;详情&lt;/a&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="FycDhRPKH3RZSZih0S0l-1">
           <mxGeometry x="571" y="823.5" width="166" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="C-3wPgLWsNDRGzQ5MtjU-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontSize=16;fontColor=#4D4D4D;endArrow=none;endFill=0;" edge="1" parent="FycDhRPKH3RZSZih0S0l-1" source="C-3wPgLWsNDRGzQ5MtjU-68" target="C-3wPgLWsNDRGzQ5MtjU-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C-3wPgLWsNDRGzQ5MtjU-68" value="&lt;span style=&quot;text-align: left&quot;&gt;cctb/pmtb/核心应用(15/150)；自动化开启wisp&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillColor=#dae8fc;fillStyle=solid;strokeColor=none;" vertex="1" parent="FycDhRPKH3RZSZih0S0l-1">
+        <mxCell id="C-3wPgLWsNDRGzQ5MtjU-68" value="&lt;span style=&quot;text-align: left&quot;&gt;服务鉴权1.0覆盖94个高密应用;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;服务鉴权2.0性能达标, 大促不开启&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillColor=#d5e8d4;fillStyle=solid;strokeColor=none;" vertex="1" parent="FycDhRPKH3RZSZih0S0l-1">
           <mxGeometry x="164" y="847.5" width="374" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C-3wPgLWsNDRGzQ5MtjU-69" value="&lt;span style=&quot;text-align: left&quot;&gt;推进进度稍慢&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="FycDhRPKH3RZSZih0S0l-1">
-          <mxGeometry x="569" y="847.5" width="166" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C-3wPgLWsNDRGzQ5MtjU-70" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=16;fontColor=#4D4D4D;endArrow=none;endFill=0;" edge="1" parent="FycDhRPKH3RZSZih0S0l-1" source="C-3wPgLWsNDRGzQ5MtjU-71" target="C-3wPgLWsNDRGzQ5MtjU-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C-3wPgLWsNDRGzQ5MtjU-71" value="&lt;span style=&quot;text-align: left&quot;&gt;cctb/pmtb/核心应用(15/150)；自动化开启wisp&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillColor=#dae8fc;fillStyle=solid;strokeColor=none;" vertex="1" parent="FycDhRPKH3RZSZih0S0l-1">
+        <mxCell id="C-3wPgLWsNDRGzQ5MtjU-71" value="仅带上身份信息但不做验证, 保险&amp;amp;征信覆盖40%的容器" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillColor=#d5e8d4;fillStyle=solid;strokeColor=none;" vertex="1" parent="FycDhRPKH3RZSZih0S0l-1">
           <mxGeometry x="163" y="869.5" width="374" height="20" as="geometry" />
         </mxCell>
         <mxCell id="C-3wPgLWsNDRGzQ5MtjU-72" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=16;fontColor=#4D4D4D;endArrow=none;endFill=0;" edge="1" parent="FycDhRPKH3RZSZih0S0l-1" source="C-3wPgLWsNDRGzQ5MtjU-73" target="C-3wPgLWsNDRGzQ5MtjU-77">
