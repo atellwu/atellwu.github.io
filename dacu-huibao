@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T07:59:00.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="eubSBDoF7L5E22nAD9EA" version="15.0.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-09-21T09:07:47.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="NLuGhNQoxJlkLhHSZazD" version="15.0.6" type="github" pages="13">
   <diagram id="Csh6XQK3O8JT2D7CaR2J" name="Page-1">
     <mxGraphModel dx="1346" dy="579" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -427,7 +427,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="大图分类2" id="4tPhAS9IJhAODN9hM6Ig">
-    <mxGraphModel dx="1157" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="436" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cR51DHVMp2h9EmSab4e7-0" />
         <mxCell id="cR51DHVMp2h9EmSab4e7-1" parent="cR51DHVMp2h9EmSab4e7-0" />
@@ -670,8 +670,8 @@
         <mxCell id="cR51DHVMp2h9EmSab4e7-85" value="&lt;span style=&quot;&quot;&gt;v1.9.4版本(性能优化&amp;amp;bugfix&lt;/span&gt;&lt;span style=&quot;&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;取消升级&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;align=center;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="161.14" y="234" width="374" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-86" value="&lt;span class=&quot;ne-text&quot; style=&quot;&quot;&gt;99大促 mobilegw 生产开启 Host Sharding，&lt;/span&gt;&lt;span style=&quot;&quot;&gt;CPU 降低 20%&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;align=center;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="163.14" y="266" width="374" height="23" as="geometry" />
+        <mxCell id="cR51DHVMp2h9EmSab4e7-86" value="&lt;span class=&quot;ne-text&quot;&gt;99大促 mobilegw 生产开启 Host Sharding，&lt;/span&gt;&lt;span&gt;CPU 降低 20%; cctb 灰度验证中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;align=center;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
+          <mxGeometry x="153" y="267" width="415" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-87" value="事务悬挂" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="572.14" y="199" width="123.86" height="23" as="geometry" />
