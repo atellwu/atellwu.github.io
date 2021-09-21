@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T09:22:20.304Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="tiAa6-HrJyXV_RGVtwtH" version="15.0.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-09-21T09:37:04.482Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="9olRLFX1WsT9uoMuTOEw" version="15.0.6" type="github" pages="13">
   <diagram id="Csh6XQK3O8JT2D7CaR2J" name="Page-1">
     <mxGraphModel dx="1346" dy="579" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -800,16 +800,16 @@
           <mxGeometry x="571.14" y="253" width="203" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-129" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;合并部署-&amp;gt;非合并部署时, bolt降级tr&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="566" y="454" width="205" height="23" as="geometry" />
+          <mxGeometry x="568" y="461" width="205" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-130" value="&lt;div&gt;应用级服务发现, 可能导致bolt降级tr&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="565" y="480" width="208" height="23" as="geometry" />
+          <mxGeometry x="567" y="487" width="208" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-131" value="&lt;div style=&quot;&quot;&gt;http2链路的存在频繁打log问题&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="564" y="507" width="192" height="23" as="geometry" />
+          <mxGeometry x="566" y="514" width="192" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-132" value="&lt;div style=&quot;&quot;&gt;workload应用(B/C)可能会升级失败&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="566" y="533" width="192" height="23" as="geometry" />
+          <mxGeometry x="568" y="540" width="192" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-133" value="&lt;b&gt;目标&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#4D4D4D;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="-24.000000000000007" y="778" width="42" height="23" as="geometry" />
@@ -1434,7 +1434,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X90Th65-7ZUSDzfLsV4_" name="zjj-stop">
-    <mxGraphModel dx="1346" dy="179" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zOBV6014Ayhd_Ffs4UrX-0" />
         <mxCell id="zOBV6014Ayhd_Ffs4UrX-1" parent="zOBV6014Ayhd_Ffs4UrX-0" />
@@ -1490,7 +1490,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ewHghHhxvA2jFMmMq1NI" name="zjj-mosn&amp;odp">
-    <mxGraphModel dx="1346" dy="179" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dTn85B45hat61JQd2ats-0" />
         <mxCell id="dTn85B45hat61JQd2ats-1" parent="dTn85B45hat61JQd2ats-0" />
