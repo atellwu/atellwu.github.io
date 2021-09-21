@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T06:13:59.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="M7sJ2ovmeUyZk4RJSZNy" version="15.0.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-09-21T07:15:58.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="gBt5rfVT0WBwTsAP1Sng" version="15.0.6" type="github" pages="13">
   <diagram id="Csh6XQK3O8JT2D7CaR2J" name="Page-1">
     <mxGraphModel dx="1346" dy="579" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -724,8 +724,8 @@
         <mxCell id="cR51DHVMp2h9EmSab4e7-102" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;弹性建站&lt;/span&gt;&lt;span&gt;tmpfs目录权限问题&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="563" y="394" width="192" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-103" value="&lt;span style=&quot;text-align: left&quot;&gt;大规模重启:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;已上线&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;; 智能运维: 失败&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;自愈率22%,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;智能基线推广中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillColor=#d5e8d4;fillStyle=solid;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="155.75" y="1114" width="376" height="23" as="geometry" />
+        <mxCell id="cR51DHVMp2h9EmSab4e7-103" value="&lt;span style=&quot;text-align: left&quot;&gt;大规模重启,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;已上线&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;; 智能运维, 帮助&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;失败&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;工单&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;自愈率22%;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;智能基线已上线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillColor=#d5e8d4;fillStyle=solid;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
+          <mxGeometry x="155.75" y="1114" width="407.25" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-104" value="&lt;span style=&quot;text-align: left&quot;&gt;SOFAArk非对等模式已上线，分时伸缩验证中; 函数运行时切多容器中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillColor=#d5e8d4;fillStyle=solid;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="155.75" y="1143" width="389" height="23" as="geometry" />
