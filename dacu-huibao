@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T10:03:33.381Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="qAVgPiBkDZrx4FV3dRx_" version="15.0.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-09-21T11:38:23.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="6zy_olWE1IAPk8UsY_ke" version="15.0.6" type="github" pages="13">
   <diagram id="Csh6XQK3O8JT2D7CaR2J" name="Page-1">
     <mxGraphModel dx="1346" dy="579" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -427,7 +427,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="大图分类2" id="4tPhAS9IJhAODN9hM6Ig">
-    <mxGraphModel dx="1157" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1349" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cR51DHVMp2h9EmSab4e7-0" />
         <mxCell id="cR51DHVMp2h9EmSab4e7-1" parent="cR51DHVMp2h9EmSab4e7-0" />
@@ -649,32 +649,32 @@
         <mxCell id="cR51DHVMp2h9EmSab4e7-79" value="&lt;span style=&quot;&quot;&gt;99大促 ttc 覆盖&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;RZ42A&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;15%机器，CPU 降低 7%，但目前均已降级&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;align=center;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="164.14" y="171" width="374" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-80" value="&lt;span style=&quot;&quot;&gt;降级hessian后无法恢复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="570.14" y="171" width="166" height="23" as="geometry" />
+        <mxCell id="cR51DHVMp2h9EmSab4e7-80" value="&lt;span&gt;[高][待解决] 降级hessian后无法恢复&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
+          <mxGeometry x="570.14" y="171" width="204.86" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-81" value="&lt;span style=&quot;&quot;&gt;cctb/pmtb/核心应用(15/150)；已支持自动化开启wisp&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;align=center;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="161" y="297" width="374" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-82" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#4D4D4D;endArrow=none;endFill=0;align=left;sketch=0;strokeColor=#808080;" edge="1" parent="cR51DHVMp2h9EmSab4e7-1" source="cR51DHVMp2h9EmSab4e7-83" target="cR51DHVMp2h9EmSab4e7-87">
+        <mxCell id="K3pD8cp8tpK0_IP0hfyC-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;shadow=0;fontSize=13;fontColor=#4D4D4D;endArrow=none;endFill=0;strokeColor=#808080;align=left;" edge="1" parent="cR51DHVMp2h9EmSab4e7-1" source="cR51DHVMp2h9EmSab4e7-83" target="cR51DHVMp2h9EmSab4e7-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5UKzYU6XYzkXKnEzIrgv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontSize=15;fontColor=#4D4D4D;endArrow=none;endFill=0;align=left;curved=1;strokeColor=#808080;" edge="1" parent="cR51DHVMp2h9EmSab4e7-1" source="cR51DHVMp2h9EmSab4e7-83" target="5UKzYU6XYzkXKnEzIrgv-0">
+        <mxCell id="K3pD8cp8tpK0_IP0hfyC-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;shadow=0;fontSize=13;fontColor=#4D4D4D;endArrow=none;endFill=0;strokeColor=#808080;align=left;" edge="1" parent="cR51DHVMp2h9EmSab4e7-1" source="cR51DHVMp2h9EmSab4e7-83" target="5UKzYU6XYzkXKnEzIrgv-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-83" value="研发完成，效果待压测验证" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;align=center;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="163.14" y="204" width="374" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-84" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#4D4D4D;endArrow=none;endFill=0;align=left;sketch=0;strokeColor=#808080;" edge="1" parent="cR51DHVMp2h9EmSab4e7-1" source="cR51DHVMp2h9EmSab4e7-85" target="cR51DHVMp2h9EmSab4e7-128">
+        <mxCell id="K3pD8cp8tpK0_IP0hfyC-0" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontSize=13;fontColor=#4D4D4D;endArrow=none;endFill=0;strokeColor=#808080;align=left;" edge="1" parent="cR51DHVMp2h9EmSab4e7-1" source="cR51DHVMp2h9EmSab4e7-85" target="cR51DHVMp2h9EmSab4e7-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-85" value="&lt;span style=&quot;&quot;&gt;v1.9.4版本(性能优化&amp;amp;bugfix&lt;/span&gt;&lt;span style=&quot;&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;取消升级&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;align=center;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="161.14" y="234" width="374" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-86" value="&lt;span class=&quot;ne-text&quot;&gt;99大促 mobilegw 生产开启 Host Sharding，&lt;/span&gt;&lt;span&gt;CPU 降低 20%; cctb 灰度验证中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;align=center;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="153" y="267" width="415" height="23" as="geometry" />
+          <mxGeometry x="149" y="266" width="415" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-87" value="事务悬挂" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="572.14" y="199" width="123.86" height="23" as="geometry" />
+        <mxCell id="cR51DHVMp2h9EmSab4e7-87" value="[中][已解决] 代码问题遇到事务悬挂" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
+          <mxGeometry x="569.14" y="198" width="199.86" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-88" value="&lt;span class=&quot;ne-text&quot; style=&quot;text-align: left&quot;&gt;目标8w核，目前灰度共计&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;1.1w核 (&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;587应用/3500个pod)&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillColor=#d5e8d4;fillStyle=solid;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="162" y="1004" width="374" height="23" as="geometry" />
@@ -694,8 +694,8 @@
         <mxCell id="cR51DHVMp2h9EmSab4e7-92" value="&lt;span style=&quot;&quot;&gt;非弹机房上线4/6, 均为应用级模式；&lt;/span&gt;&lt;span style=&quot;&quot;&gt;弹性机房上线3/3, 接口级模式&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;align=center;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="160" y="354" width="374" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-93" value="应用级服务发现, 可能导致bolt降级tr" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="566" y="341" width="212" height="23" as="geometry" />
+        <mxCell id="cR51DHVMp2h9EmSab4e7-93" value="[中][已解决] 应用级服务发现, 可能导致bolt降级tr" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
+          <mxGeometry x="566" y="341" width="273" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-94" value="&lt;span style=&quot;&quot;&gt;替代sofagw：已支持triple/bolt协议，消息协议研发中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;align=center;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="156.64" y="534" width="374" height="23" as="geometry" />
@@ -712,8 +712,8 @@
         <mxCell id="cR51DHVMp2h9EmSab4e7-98" value="&lt;span style=&quot;&quot;&gt;主数据下线延期，sofaops下线和sofagw替代zproxy切流验证中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;align=center;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="158.75" y="424" width="374" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-99" value="&lt;span style=&quot;&quot;&gt;组合数据项参数中心提单失败&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="566" y="424" width="191" height="23" as="geometry" />
+        <mxCell id="cR51DHVMp2h9EmSab4e7-99" value="[高][已解决]&amp;nbsp;&lt;span&gt;组合数据项参数中心提单失败&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
+          <mxGeometry x="566" y="424" width="237" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-100" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#4D4D4D;endArrow=none;endFill=0;align=left;sketch=0;strokeColor=#808080;" edge="1" parent="cR51DHVMp2h9EmSab4e7-1" source="cR51DHVMp2h9EmSab4e7-101" target="cR51DHVMp2h9EmSab4e7-102">
           <mxGeometry relative="1" as="geometry" />
@@ -721,8 +721,8 @@
         <mxCell id="cR51DHVMp2h9EmSab4e7-101" value="&lt;div&gt;&lt;span&gt;弹性机房已全部接入; 99大促, 日志io平稳, 合并部署cpu下降10%&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;align=center;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="157.64" y="391" width="374" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-102" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;弹性建站&lt;/span&gt;&lt;span&gt;tmpfs目录权限问题&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="563" y="394" width="192" height="23" as="geometry" />
+        <mxCell id="cR51DHVMp2h9EmSab4e7-102" value="&lt;div&gt;&lt;span&gt;[高][已解决] 弹性建站&lt;/span&gt;&lt;span&gt;tmpfs目录权限问题&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
+          <mxGeometry x="565" y="394" width="234" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-103" value="&lt;span style=&quot;text-align: left&quot;&gt;大规模重启,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;已上线&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;; 智能运维, 帮助&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;失败&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;工单&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;自愈率22%;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;智能基线已上线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillColor=#d5e8d4;fillStyle=solid;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="155.75" y="1114" width="407.25" height="23" as="geometry" />
@@ -790,26 +790,20 @@
         <mxCell id="cR51DHVMp2h9EmSab4e7-125" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=16;fontColor=#4D4D4D;endArrow=none;endFill=0;align=left;sketch=0;strokeColor=#808080;" edge="1" parent="cR51DHVMp2h9EmSab4e7-1" source="cR51DHVMp2h9EmSab4e7-127" target="cR51DHVMp2h9EmSab4e7-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-126" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#4D4D4D;endArrow=none;endFill=0;align=left;sketch=0;strokeColor=#808080;" edge="1" parent="cR51DHVMp2h9EmSab4e7-1" source="cR51DHVMp2h9EmSab4e7-127" target="cR51DHVMp2h9EmSab4e7-132">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-127" value="原定大促版本1.22.0, 因存在bug改为1.22.2&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fontStyle=0;fillStyle=solid;align=center;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="158" y="461" width="374" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-128" value="&lt;span style=&quot;&quot;&gt;因v1.9.3.1 bug问题, v1.9.4暂不铺开&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="571.14" y="253" width="203" height="23" as="geometry" />
+        <mxCell id="cR51DHVMp2h9EmSab4e7-128" value="&lt;span&gt;计划变动: 因v1.9.3.1 bug问题, v1.9.4暂不铺开&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
+          <mxGeometry x="570.14" y="249" width="250.86" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-129" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;合并部署-&amp;gt;非合并部署时, bolt降级tr&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="568" y="461" width="205" height="23" as="geometry" />
+        <mxCell id="cR51DHVMp2h9EmSab4e7-129" value="[中][已解决]&amp;nbsp;应用级服务发现, 可能导致bolt降级tr" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
+          <mxGeometry x="568" y="461" width="266" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-130" value="&lt;div&gt;应用级服务发现, 可能导致bolt降级tr&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="567" y="487" width="208" height="23" as="geometry" />
+        <mxCell id="cR51DHVMp2h9EmSab4e7-130" value="&lt;span&gt;[低][已解决]&amp;nbsp;&lt;/span&gt;&lt;span&gt;合并部署-&amp;gt;非合并部署时, bolt降级tr&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
+          <mxGeometry x="567" y="487" width="265" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-131" value="&lt;div style=&quot;&quot;&gt;http2链路的存在频繁打log问题&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="566" y="514" width="192" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="cR51DHVMp2h9EmSab4e7-132" value="&lt;div style=&quot;&quot;&gt;workload应用(B/C)可能会升级失败&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="568" y="540" width="192" height="23" as="geometry" />
+        <mxCell id="cR51DHVMp2h9EmSab4e7-131" value="[低][已解决]&amp;nbsp;&lt;span&gt;http2链路的存在频繁打log问题&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
+          <mxGeometry x="566" y="514" width="243" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cR51DHVMp2h9EmSab4e7-133" value="&lt;b&gt;目标&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#4D4D4D;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="-24.000000000000007" y="778" width="42" height="23" as="geometry" />
@@ -820,11 +814,11 @@
         <mxCell id="cR51DHVMp2h9EmSab4e7-135" value="&lt;b&gt;风险/问题&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#4D4D4D;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="610" y="778" width="78" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="5UKzYU6XYzkXKnEzIrgv-0" value="99大促退款失败" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="572" y="225" width="127" height="23" as="geometry" />
+        <mxCell id="5UKzYU6XYzkXKnEzIrgv-0" value="[高][已解决] 99大促退款失败" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
+          <mxGeometry x="569" y="223" width="165" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="5UKzYU6XYzkXKnEzIrgv-4" value="弹性建站session fullgc" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
-          <mxGeometry x="567" y="366" width="140" height="23" as="geometry" />
+        <mxCell id="5UKzYU6XYzkXKnEzIrgv-4" value="[高][已解决] 弹性建站session fullgc" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=0;fontStyle=0;fillStyle=solid;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
+          <mxGeometry x="567" y="366" width="198" height="23" as="geometry" />
         </mxCell>
         <mxCell id="0z2DCyKoLeeXvgY2aStU-0" value="" style="line;strokeWidth=1;html=1;shadow=0;sketch=0;fontSize=16;fontColor=#4D4D4D;fillColor=#ffffff;gradientDirection=south;align=left;strokeColor=#C9C9C9;" vertex="1" parent="cR51DHVMp2h9EmSab4e7-1">
           <mxGeometry x="-110.68" y="804" width="865.68" height="10" as="geometry" />
